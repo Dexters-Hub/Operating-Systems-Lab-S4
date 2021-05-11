@@ -31,7 +31,7 @@ _an interface to the system reference manuals_
 
 _**cp**_ - _copy files and directories_
 
-_**rmdir**_ - _move (rename) files_
+_**mv**_ - _move (rename) files_
 
 ## 8. cat
 

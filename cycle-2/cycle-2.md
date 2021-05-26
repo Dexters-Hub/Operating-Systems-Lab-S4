@@ -20,5 +20,5 @@
 
     [add-parallel-thread](addparallelthread.c)
 
-
+    ### output
     <img height= "384px" width="683px" src = "images/twothread.png">
